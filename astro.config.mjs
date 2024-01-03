@@ -8,9 +8,12 @@ export default defineConfig({
 	},
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'BSDWIKI',
+			editLink: {
+    			baseUrl: 'https://github.com/bsdwiki/bsdwiki/edit/main/',
+  			},
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/bsdwiki',
 			},
 			sidebar: [
 				{
