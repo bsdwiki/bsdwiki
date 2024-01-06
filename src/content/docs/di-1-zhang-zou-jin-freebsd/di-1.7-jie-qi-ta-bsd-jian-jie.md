@@ -1,5 +1,7 @@
 ---
 title: 第 1.7 节 其他 BSD 简介
+sidebar:
+  order: 7
 ---
 
 

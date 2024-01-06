@@ -1,5 +1,7 @@
 ---
 title: 第 1.2 节 什么是 Unix-like
+sidebar:
+  order: 2
 ---
 
 
