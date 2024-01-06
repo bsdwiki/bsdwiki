@@ -16,9 +16,10 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'FreeBSD 从入门到跑路',
+
 					items: [
-						// Each item here is one entry in the navigation menu.
-						//{ label: 'Example Guide', link: '/guides/example/' },
+						 //Each item here is one entry in the navigation menu.
+						 { label: '社区介绍', link: '/guides/introduction/' },
 					],
 				},
 				
