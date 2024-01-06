@@ -1,5 +1,7 @@
 ---
 title: 第 1.4 节 FreeBSD 与其他操作系统
+sidebar:
+  order: 4
 ---
 
 

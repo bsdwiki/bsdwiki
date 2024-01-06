@@ -15,19 +15,21 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'FreeBSD 从入门到跑路',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
+						//{ label: 'Example Guide', link: '/guides/example/' },
 					],
 				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
+				
 				{
 					label: '第一章 走进 FreeBSD',
 					autogenerate: { directory: 'di-1-zhang-zou-jin-freebsd' },
+				},
+				
+				{
+					label: '第二章 安装 FreeBSD',
+					autogenerate: { directory: 'di-2-zhang-an-zhuang-freebsd' },
 				},
 			],
 		}),

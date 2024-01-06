@@ -1,5 +1,7 @@
 ---
-title: 第 1.3 节 什么是 Linux order:1
+title: 第 1.3 节 什么是 Linux
+sidebar:
+  order: 3
 ---
 
 

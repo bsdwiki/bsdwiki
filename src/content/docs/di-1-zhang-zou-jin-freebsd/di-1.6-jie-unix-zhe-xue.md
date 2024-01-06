@@ -1,5 +1,7 @@
 ---
 title: 第 1.6 节 UNIX 哲学
+sidebar:
+  order: 6
 ---
 
 

@@ -1,5 +1,7 @@
 ---
 title: 第 1.8 节 Linux 用户迁移指北
+sidebar:
+  order: 8
 ---
 
 

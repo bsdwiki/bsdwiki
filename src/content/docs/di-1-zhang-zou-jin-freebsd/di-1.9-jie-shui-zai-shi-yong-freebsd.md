@@ -1,5 +1,7 @@
 ---
 title: 第 1.9 节 谁在使用 FreeBSD
+sidebar:
+  order: 9
 ---
 
 
