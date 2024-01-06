@@ -27,6 +27,10 @@ export default defineConfig({
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
 				},
+				{
+					label: 'di-1-zhang-zou-jin-freebsd',
+					autogenerate: { directory: 'di-1-zhang-zou-jin-freebsd' },
+				},
 			],
 		}),
 	],
