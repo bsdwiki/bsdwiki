@@ -3,9 +3,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	redirects: {
-    		'/': '/guides/example'
-	},
+
 	integrations: [
 		starlight({
 			title: 'BSDWIKI',
@@ -26,6 +24,10 @@ export default defineConfig({
 				{
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
+				},
+				{
+					label: '第一章 走进 FreeBSD',
+					autogenerate: { directory: 'di-1-zhang-zou-jin-freebsd' },
 				},
 			],
 		}),
