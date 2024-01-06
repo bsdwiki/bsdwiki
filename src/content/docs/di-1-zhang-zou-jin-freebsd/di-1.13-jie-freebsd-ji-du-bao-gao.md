@@ -1,7 +1,7 @@
 ---
 title: 第 1.13 节 FreeBSD 季度报告
 ---
-# 第 1.13 节 FreeBSD 季度报告
+
 
 旧的存档可以在这里找到：<https://freebsd.gitbook.io/freebsd-relnotes-cn/>
 

@@ -1,7 +1,7 @@
 ---
 title: 第 1.14节 FreeBSD 安全公告
 ---
-# 第 1.14节 FreeBSD 安全公告
+
 
 
 ## FreeBSD 安全公告 FreeBSD-SA-23:11.wifi

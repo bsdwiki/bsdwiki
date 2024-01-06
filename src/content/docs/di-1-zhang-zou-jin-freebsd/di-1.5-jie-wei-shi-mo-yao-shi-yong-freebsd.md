@@ -1,7 +1,7 @@
 ---
 title: 第 1.5 节 为什么要使用 FreeBSD
 ---
-# 第 1.5 节 为什么要使用 FreeBSD
+
 
 ## 选择 FreeBSD 的一般原因
 
