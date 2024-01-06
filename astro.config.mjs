@@ -28,7 +28,7 @@ export default defineConfig({
 					autogenerate: { directory: 'reference' },
 				},
 				{
-					label: 'di-1-zhang-zou-jin-freebsd',
+					label: '第一章 走进 FreeBSD',
 					autogenerate: { directory: 'di-1-zhang-zou-jin-freebsd' },
 				},
 			],
