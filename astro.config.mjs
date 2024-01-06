@@ -3,9 +3,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	redirects: {
-    		'/': '/guides/example'
-	},
+
 	integrations: [
 		starlight({
 			title: 'BSDWIKI',
