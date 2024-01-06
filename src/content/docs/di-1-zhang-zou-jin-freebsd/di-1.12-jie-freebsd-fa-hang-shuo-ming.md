@@ -1,3 +1,6 @@
+---
+title: 第 1.12 节 FreeBSD 发行说明
+---
 # 第 1.12 节 FreeBSD 发行说明
 
 
