@@ -72,6 +72,56 @@ export default defineConfig({
 					label: '第十章 虚拟化',
 					autogenerate: { directory: 'di-10-zhang-xu-ni-hua' },
 				},
+				
+				{
+					label: '第十一章',
+					autogenerate: { directory: 'di-11-zhang-geng-xin-yu-sheng-ji-freebsd' },
+				},
+				
+				{
+					label: '第十二章',
+					autogenerate: { directory: 'di-12-zhang-geom-cun-chu-kuang-jia' },
+				},
+				
+				{
+					label: '第十三章',
+					autogenerate: { directory: 'di-13-zhang-dtrace' },
+				},
+				
+				{
+					label: '第十四章',
+					autogenerate: { directory: 'di-14-zhang-wang-luo-guan-li' },
+				},
+				
+				{
+					label: '第十五章',
+					autogenerate: { directory: 'di-15-zhang-freebsd-fang-huo-qiang' },
+				},
+				
+				{
+					label: '第十六章',
+					autogenerate: { directory: 'di-16-zhang-fu-wu-qi' },
+				},
+				
+				{
+					label: '第十七章',
+					autogenerate: { directory: 'di-17-zhang-wang-luo-fu-wu-qi' },
+				},
+				
+				{
+					label: '第十八章',
+					autogenerate: { directory: 'di-18-zhang-shu-mei-pai-yu-riscv' },
+				},
+				
+				{
+					label: '第十九章',
+					autogenerate: { directory: 'di-19-zhang-wen-xue-gu-shi' },
+				},
+				
+				{
+					label: '第二十章',
+					autogenerate: { directory: 'di-20-zhang-yu-le-yu-jiao-yu' },
+				},
 			],
 		}),
 	],
