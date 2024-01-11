@@ -6,11 +6,10 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "BSDWIKI",
-      components: {
-        // 重写默认的 `SocialIcons` 组件。
+     /*  components: {
         Footer: "./src/components/ConditionalFooter.astro",
         ThemeSelect: "./src/components/ThemeSelect.astro",
-      },
+      }, */
       editLink: {
         baseUrl: "https://github.com/bsdwiki/bsdwiki/edit/main/",
       },
