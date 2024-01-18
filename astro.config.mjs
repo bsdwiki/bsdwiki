@@ -6,10 +6,10 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "BSDWIKI",
-     /*  components: {
+        components: {
         Footer: "./src/components/ConditionalFooter.astro",
-        ThemeSelect: "./src/components/ThemeSelect.astro",
-      }, */
+        //ThemeSelect: "./src/components/ThemeSelect.astro",
+      }, 
       editLink: {
         baseUrl: "https://github.com/bsdwiki/bsdwiki/edit/main/",
       },
