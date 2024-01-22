@@ -18,7 +18,7 @@ export default defineConfig({
       tag: 'meta',
       attrs: {
         name: 'referrer',
-        content: 'strict-origin-when-cross-origin',
+        content: 'no-referrer',
       },
           },
       ],
