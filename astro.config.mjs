@@ -20,6 +20,7 @@ export default defineConfig({
         name: 'referrer',
         content: 'strict-origin-when-cross-origin',
       },
+          },
       ],
       title: "BSDWIKI",
         components: {
