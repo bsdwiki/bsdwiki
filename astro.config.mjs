@@ -10,7 +10,7 @@ export default defineConfig({
         {
           tag: 'script',
           attrs: {
-            src: './src/assets/baidutongji.js',
+            src: '/baidutongji.js',
             defer: true,
           },
         },
