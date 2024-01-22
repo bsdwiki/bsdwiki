@@ -14,6 +14,12 @@ export default defineConfig({
             defer: true,
           },
         },
+          {
+      tag: 'meta',
+      attrs: {
+        name: 'referrer',
+        content: 'strict-origin-when-cross-origin',
+      },
       ],
       title: "BSDWIKI",
         components: {
