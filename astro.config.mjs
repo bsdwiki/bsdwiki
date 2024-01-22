@@ -5,7 +5,7 @@ import starlight from "@astrojs/starlight";
 export default defineConfig({
   integrations: [
     starlight({
-       head: [
+/*       head: [
         // 示例：添加百度统计分析脚本标签。
         {
           tag: 'script',
@@ -21,7 +21,7 @@ export default defineConfig({
         content: 'no-referrer',
       },
           },
-      ],
+      ], */
       title: "BSDWIKI",
         components: {
         Footer: "./src/components/ConditionalFooter.astro",
