@@ -3,30 +3,14 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://bsd.wiki/",
   integrations: [
     starlight({
-/*       head: [
-        // 示例：添加百度统计分析脚本标签。
-        {
-          tag: 'script',
-          attrs: {
-            src: '/baidutongji.js',
-            defer: true,
-          },
-        },
-          {
-      tag: 'meta',
-      attrs: {
-        name: 'referrer',
-        content: 'no-referrer',
-      },
-          },
-      ], */
       title: "BSDWIKI",
-        components: {
+      /* components: {
         Footer: "./src/components/ConditionalFooter.astro",
-        //ThemeSelect: "./src/components/ThemeSelect.astro",
-      }, 
+        ThemeSelect: "./src/components/ThemeSelect.astro",
+      }, */
       editLink: {
         baseUrl: "https://github.com/bsdwiki/bsdwiki/edit/main/",
       },
@@ -194,7 +178,7 @@ export default defineConfig({
         {
           label: "第二十九章 TrueNAS",
           autogenerate: { directory: "di-29-zhang-truenas" },
-        },	
+        },
 
         {
           label: "第三十一章 TwincatBSD",
