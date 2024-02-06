@@ -15,7 +15,7 @@
 │   ├── assets/
 │   ├── content/
 │   │   ├── docs/
-|   |   ├── di-1-zhang-zoujin-freebsd
+|   |   ├── chapters
 │   │   └── config.ts
 │   └── env.d.ts
 ├── astro.config.mjs
