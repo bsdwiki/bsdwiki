@@ -15,7 +15,7 @@
 │   ├── assets/
 │   ├── content/
 │   │   ├── docs/
-│   │   ├── chapters
+│   │   │   ├── chapters
 │   │   └── config.ts
 │   └── env.d.ts
 ├── astro.config.mjs
