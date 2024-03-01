@@ -1,6 +1,5 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
-
 import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
@@ -14,7 +13,6 @@ export default defineConfig({
       ThemeSelect: "./src/components/ThemeSelect.astro",
     }, */
       customCss: [
-        // 你的 Tailwind 基础样式的相对路径
         "./src/tailwind.css",
       ],
       editLink: {

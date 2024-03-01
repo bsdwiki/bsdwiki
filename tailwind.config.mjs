@@ -8,9 +8,9 @@ export default {
       extend: {
         colors: {
           // 你喜欢的强调色。Indigo 是最接近 Starlight 默认的。
-          accent: colors.rose,
+          accent: colors.red, // 将颜色改为大红色
           // 你喜欢的灰色。Zinc 是最接近 Starlight 默认的。
-          gray: colors.rose,
+          gray: colors.zinc,
         },
         fontFamily: {
           // 你喜欢的文本字体。Starlight 默认使用系统字体堆栈。
@@ -22,4 +22,3 @@ export default {
     },
     plugins: [starlightPlugin()],
   };
-
