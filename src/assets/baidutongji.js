@@ -1,7 +1,1 @@
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?b176b433d6c2f97d5091ede06b2dbcf4";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
+<script defer src="https://umamirepo.vercel.app/script.js" data-website-id="d5c2a4e7-a13b-43b6-a5e7-054b7fe0fe9a"></script>
