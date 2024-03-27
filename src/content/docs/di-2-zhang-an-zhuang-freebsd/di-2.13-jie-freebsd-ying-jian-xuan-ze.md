@@ -10,9 +10,10 @@ sidebar:
 
 [Hardware for BSD](https://bsd-hardware.info/?view=search)
 
-<figure><img src="../.gitbook/assets/h1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/h2.png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/h1.png)
+
+![](../.gitbook/assets/h2.png)
 
 > 如果你也想上传你的数据到该网站上，请：
 >
